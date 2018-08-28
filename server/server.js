@@ -14,7 +14,7 @@ const {
   Users
 } = require('./utils/users');
 
-var conString  ="mongodb://craiglewis1508@gmail.com:metroidprime15@ds233581.mlab.com:33581/chatappinfo";
+var conString  =;
 
 const publicPath = path.join(__dirname, '../public');
 const port = process.env.PORT || 3000;
